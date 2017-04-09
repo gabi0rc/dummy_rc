@@ -1,16 +1,11 @@
-<<<<<<< HEAD
 function sayHello(name) {
-  var salutation = 'Hello ' + name;
-  return salutation.toUpperCase();
+  return  'Hello ' + name;
 }
 
 input > sayHello('World');
 
 // result
-output > "HELLO WORLD"
+output > "Hello World"
 
 //expected
 output > "Hello World"
-=======
-Echo `eugen`
->>>>>>> origin/sayHello-fix
