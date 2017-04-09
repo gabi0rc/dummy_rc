@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function sayHello(name) {
   var salutation = 'Hello ' + name;
   return salutation.toUpperCase();
@@ -10,3 +11,6 @@ output > "HELLO WORLD"
 
 //expected
 output > "Hello World"
+=======
+Echo `eugen`
+>>>>>>> origin/sayHello-fix
